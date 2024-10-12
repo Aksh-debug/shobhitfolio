@@ -148,7 +148,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/openAI.png",
+      image: "/OpenAI.png",
       video: "",
     },
     {
@@ -171,7 +171,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/pokedox.png",
+      image: "/Pokedox.png",
       video: "",
     },
     {
