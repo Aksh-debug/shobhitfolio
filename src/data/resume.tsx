@@ -3,7 +3,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Shobhit",
-  initials: "AR",
+  initials: "SR",
   description:
     "Passionate about programming and building innovative products on the web. ",
   avatarUrl: "/showpic.png",
