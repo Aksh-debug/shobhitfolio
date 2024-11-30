@@ -5,7 +5,7 @@ export const DATA = {
   name: "Shobhit",
   initials: "AR",
   description:
-    "Passionate about programming and building innovative products on the web.",
+    "Passionate about programming and building innovative products on the web. ",
   avatarUrl: "/showpic.png",
   skills: [
     "Next.js",
