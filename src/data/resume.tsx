@@ -17,6 +17,8 @@ export const DATA = {
     "MongoDB",
     "Prisma ORM",
     "TubroRepo",
+    "SQL",
+    "Tanstack Query",
     "Recoil",
     "Redux Toolkit",
     "Docker",
